@@ -51,7 +51,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | [morph-dev/pglanding-morph-dev](https://github.com/morph-dev/pglanding-morph-dev) |
 | [Rahul](https://github.com/raxhvl) | 1 | [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl) |
 | [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
-| **Robust Incentive Group (RIG)** (5 contributors) | | |
+| **Robust Incentive Group (RIG)** (6 contributors) | | |
 | [Anders](https://github.com/anderselowsson/) | 1 | [rig.ethereum.org/all-works/anders](https://rig.ethereum.org/all-works/anders) |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | [rig.ethereum.org/all-works/julian](https://rig.ethereum.org/all-works/julian) |
@@ -73,12 +73,12 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## GOVERNANCE
 - Overview: the deliberative process used to come to consensus on which specific EIPs should be in each upgrade
-- 2 Working Groups, 11 contributors
+- 2 Working Groups, 12 contributors
 - Venue: ACDC, ACDE
 - Artifact: EIPs <-> Specifications
 - Constraints: spec work must implementation agnostic + unopinionated
 
-| **Execution Layer Specs + Coordination** (7 contributors) | Weight | Contributions |
+| **Execution Layer Specs + Coordination** (8 contributors) | Weight | Contributions |
 |:---|:---|:---|
 | [Guru](https://github.com/gurukamath/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Carson](https://github.com/Carsons-Eels/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
@@ -96,7 +96,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## CLIENT IMPLEMENTATIONS
 - Overview: Implementations of the spec changes for each network upgrade, ongoing client maintenance and optimizations
-- 11 Working Groups, 109 contributors
+- 11 Working Groups, 110 contributors
 - Venue: Internal Calls
 - Artifacts: Client Releases
 - Constraints: Must be well-tested, technically differentiated, and production ready (ie. able to construct full blocks locally)
@@ -230,7 +230,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## UPGRADE DELIVERY
 - Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
-- 5 Working Groups, 25 contributors
+- 5 Working Groups, 27 contributors
 - Venue: ACDT
 - Artifacts: Dev/testnets
 
